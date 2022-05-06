@@ -1,5 +1,5 @@
 # Ejercicios-JavaScript-DOM
-Unos ejercicios tocando el DOM con JavaScript
+Unos ejercicios básicos tocando el DOM con JavaScript
 
 Son archivos html, el codigo Javascript está incluido en la cabecera del html
 
